@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    background-image: url(17GVLi.jpg);
+  
+    
+}
+
+.main{
+    border: 10px;
+    border-color:#1d1e4c;
+    border-style: solid;
+    height: 309vh;
+    
+}
+img{
+    width: 250px;
+    height: 270px;
+    border-radius: 166px;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+.main-heading{
+    position: absolute;
+    left: 700px;
+    top: 200px;
+    color:aliceblue;
+    font-size: 50px;
+}
+.life-span{
+    position: absolute;
+    left: 1147px;
+    top: 280px;
+    font-size:30;
+    color:aliceblue;
+}
+.kalam{
+    position: absolute;
+    left: 701px;
+    top: 328px;
+    font-style: italic;
+    font-size: 40px;
+    color: aliceblue;
+}
+.basheer{
+    font-style: italic;
+    position: absolute ;
+    left: 300px;
+    right: 300px;
+    top: 400px;
+    text-align: justify;
+    font-size: 30px;
+    color: aliceblue;
+}
+.sulaiman{
+    position: absolute;
+    left: 300px;
+    top: 937px;
+    font-style: italic;
+    text-align: justify;
+    font-size: 20px;
+    color: aliceblue;
+}
+.abu{
+    font-style: italic;
+    color: aliceblue;
+    position: absolute;
+    left: 300px;
+    top: 876px;
+    font-size: 40px;
+}
+.botton{
+    position: absolute;
+    margin-left: 247px;
+    margin-top: 897px;
+}
